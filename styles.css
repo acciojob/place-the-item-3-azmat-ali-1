@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+	justify-content:space-evenly;
+	width:600px;
+	height:200px;
+	flex-direction:row-reverse;
+	flex-wrap:wrap;
+	font-size:50px;
+}
+.items1{
+	
+	width:100px;
+	height:100px;
+	background-color:red;
+	
+}
+.items2{
+	
+	width:100px;
+	height:100px;
+	background-color:blue;
+	
+}
+.items3{
+	
+	width:100px;
+	height:100px;
+	background-color:green;
+	
+}
